@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(112, 254, 254);
+    margin: 0%;
+    text-align: center;
+    background-image: url(aluno-feliz.avif);
+    align-items: center;
+    background-size: cover;
+
+    
+}
+form{
+    padding: 30px;
+    border-radius: 28px;
+    display: inline-block;
+    text-align: center;
+    box-shadow: 0 0 28px;
+    width: 50%;
+    max-width: 600px;
+    margin: auto;
+    color: white;
+    background-color: rgba(30, 44, 39, 0.475);
+    margin-top: 30px;    
+    }
+    h1{
+        color: rgb(0, 0, 0);
+    }
+    h2{
+        color: rgba(72, 121, 235, 0.97);
+    }
